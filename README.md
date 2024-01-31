@@ -6,7 +6,7 @@ Hi! My name is Kawan Fonseca Miranda Braga da Penha from Brazil. I am currently 
 ## About
 
 -   📍 From Rio de Janeiro, Brazil
--   👨‍💻 Student of Computer Science
+-   👨‍💻 Student of Computer Engineering
 -   🎮 Hobbies: Watch Movies and Animes, Play Video Games, Go to the Gym, Create My Own Side Projects
 -   💪 Personal Strengths: Learner, Restorative, Ideation, Input, Analytical
 
